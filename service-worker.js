@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.fb24c1cf774d2185e09704dfc233294c.js"
+  "precache-manifest.d118d77f125f6d3618b2859e9f1170ff.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "arknights-toolbox"});
