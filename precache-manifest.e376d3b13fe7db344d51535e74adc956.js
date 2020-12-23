@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11be7f1b9165819d1458",
+    "revision": "4cc4cd119dfb922055ae",
     "url": "assets/css/app.c3e98be4.css"
   },
   {
@@ -72,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/amiya.dbcf93e0.gif"
   },
   {
-    "revision": "11be7f1b9165819d1458",
-    "url": "assets/js/app.120d3f5a.js"
-  },
-  {
     "revision": "be9d7b1331e2403231d5",
     "url": "assets/js/app.depot.9d5a4ab9.js"
+  },
+  {
+    "revision": "4cc4cd119dfb922055ae",
+    "url": "assets/js/app.f96f2ca8.js"
   },
   {
     "revision": "4919e480becb26ea5e04",
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/data/data~06005ffd.5bd6454b.js"
   },
   {
-    "revision": "5c9a94b58024bed5e7cf",
-    "url": "assets/js/data/data~34c2b8fe.5c1a9ce1.js"
+    "revision": "da4070c5cd927b5a3c3e",
+    "url": "assets/js/data/data~34c2b8fe.c0aab573.js"
   },
   {
     "revision": "d6f007ecdbdf64c92c06",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/data/data~6da88777.96d8056a.js"
   },
   {
-    "revision": "7200c5e829a076de8242",
-    "url": "assets/js/data/data~7fa567bb.7543d8fd.js"
+    "revision": "e814d032adca49adb158",
+    "url": "assets/js/data/data~7fa567bb.7d1b99e9.js"
   },
   {
     "revision": "c4349b6fd548baeb9089",
@@ -196,12 +196,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/i18n/i18n~968f8575.cb6af6ed.js"
   },
   {
-    "revision": "bc3ecb792a67ffe9caa5",
-    "url": "assets/js/i18n/i18n~abc85b4e.62828143.js"
+    "revision": "7901e0c95c8dab4c53f7",
+    "url": "assets/js/i18n/i18n~abc85b4e.25456a27.js"
   },
   {
-    "revision": "3ddadfe8efad3c88c0b9",
-    "url": "assets/js/i18n/i18n~c7705733.83b5a108.js"
+    "revision": "35810a71b8a94d0e3e84",
+    "url": "assets/js/i18n/i18n~c7705733.b7f4b6ab.js"
   },
   {
     "revision": "9eb006f5250f702e8b3a",
@@ -236,7 +236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "favicon.ico"
   },
   {
-    "revision": "36af3dc7d4a3a0dfeb28c09ceb3dfb38",
+    "revision": "d6877cfdd6188fa26a3faa0bb789deae",
     "url": "index.html"
   }
 ]);
