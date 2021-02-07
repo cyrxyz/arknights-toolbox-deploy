@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("https://cdn.jsdelivr.net/npm/workbox-cdn@4.3.1/workbox/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.831cfa083526d8e48c12e720a047ee24.js"
+  "precache-manifest.996fcddd9b2ac91702f97a375b8117ef.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "arknights-toolbox"});
@@ -30,7 +30,6 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerRoute(/assets\/img\/(avatar|material|item)\//, new workbox.strategies.CacheFirst({ plugins: [new workbox.cacheableResponse.Plugin({ statuses: [ 200 ] })] }), 'GET');
-workbox.routing.registerRoute(/assets\/pkg\//, new workbox.strategies.CacheFirst({ plugins: [new workbox.cacheableResponse.Plugin({ statuses: [ 200 ] })] }), 'GET');
 workbox.routing.registerRoute(/^https:\/\/avatars\.githubusercontent\.com\//, new workbox.strategies.StaleWhileRevalidate({ plugins: [new workbox.cacheableResponse.Plugin({ statuses: [ 200 ] })] }), 'GET');
 workbox.routing.registerRoute(/^https:\/\/i\.loli\.net\//, new workbox.strategies.CacheFirst({ plugins: [new workbox.cacheableResponse.Plugin({ statuses: [ 200 ] })] }), 'GET');
 workbox.routing.registerRoute(/^https:\/\/fonts\.googleapis\.cnpmjs\.org\//, new workbox.strategies.CacheFirst({ plugins: [new workbox.cacheableResponse.Plugin({ statuses: [ 200 ] })] }), 'GET');
