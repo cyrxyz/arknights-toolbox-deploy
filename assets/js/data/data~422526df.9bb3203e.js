@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["data/data~422526df"],{"8e88":function(p){p.exports=JSON.parse('{"cn":{},"tw":{},"us":{},"jp":{},"kr":{}}')}}]);
