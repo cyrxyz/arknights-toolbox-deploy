@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["data/event"],{"8e88":function(n){n.exports=JSON.parse('{"cn":{"act7mini_zone1":{"valid":{"startTs":1622520000,"endTs":1623095999},"drop":{"30013":{"PL-4":2},"30022":{"PL-2":1},"30061":{"PL-1":2},"30062":{"PL-3":2},"30103":{"PL-5":3}}}},"tw":{},"us":{},"jp":{},"kr":{}}')}}]);
