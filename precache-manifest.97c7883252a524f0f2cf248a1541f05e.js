@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d8d3f7acffc69056db7",
+    "revision": "b36ecda70685dbe2583d",
     "url": "assets/css/app.75c11af9.css"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/css/app.home.241ab8ec.css"
   },
   {
-    "revision": "280577c7e5f953ea5980",
+    "revision": "c67367c58bfc87b5a620",
     "url": "assets/css/app.hr.e73e88c3.css"
   },
   {
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/amiya.dbcf93e0.gif"
   },
   {
-    "revision": "0d8d3f7acffc69056db7",
-    "url": "assets/js/app.17ef2377.js"
+    "revision": "b36ecda70685dbe2583d",
+    "url": "assets/js/app.74b43382.js"
   },
   {
     "revision": "d291f13e504670eb4f82",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/app.home.3666d4f4.js"
   },
   {
-    "revision": "280577c7e5f953ea5980",
-    "url": "assets/js/app.hr.daa45fcc.js"
+    "revision": "c67367c58bfc87b5a620",
+    "url": "assets/js/app.hr.921651bf.js"
   },
   {
     "revision": "ff48e206a770927c8bf6",
@@ -132,12 +132,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/data/cultivate.ce725a82.js"
   },
   {
-    "revision": "c700cc2c93fde62e18b3",
-    "url": "assets/js/data/event.ec4d0860.js"
+    "revision": "9c39fc08064b2882467b",
+    "url": "assets/js/data/event.c247dc8c.js"
   },
   {
-    "revision": "15a2c5ada614bdb97a29",
-    "url": "assets/js/data/stage.ed7f0e34.js"
+    "revision": "1232f001bfefceb8a8cd",
+    "url": "assets/js/data/stage.9985bf06.js"
   },
   {
     "revision": "1234b316020dda946182",
@@ -176,8 +176,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/i18n/cn/term.3faae546.js"
   },
   {
-    "revision": "ceabc19f99ba7ac267b0",
-    "url": "assets/js/i18n/cn/zone.2feec830.js"
+    "revision": "86a3097aeead130086c8",
+    "url": "assets/js/i18n/cn/zone.b038425a.js"
   },
   {
     "revision": "663f7b664a53fd25e258",
@@ -284,7 +284,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "favicon.ico"
   },
   {
-    "revision": "424acecb471ceaf9111bbf9da55df804",
+    "revision": "420edf1d2822296b7935e4d644872813",
     "url": "index.html"
   }
 ]);
