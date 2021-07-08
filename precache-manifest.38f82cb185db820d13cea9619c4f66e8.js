@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d5bb0be957ab439d2f9",
+    "revision": "27b96feabb2ce025b854",
     "url": "assets/css/app.75c11af9.css"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/css/app.home.241ab8ec.css"
   },
   {
-    "revision": "0f4c37af253a4077dd86",
+    "revision": "1b0b3fc1162c555aa7b9",
     "url": "assets/css/app.hr.e73e88c3.css"
   },
   {
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/amiya.dbcf93e0.gif"
   },
   {
-    "revision": "6d5bb0be957ab439d2f9",
-    "url": "assets/js/app.a39b7c7b.js"
+    "revision": "27b96feabb2ce025b854",
+    "url": "assets/js/app.7435482c.js"
   },
   {
     "revision": "d291f13e504670eb4f82",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/app.home.3666d4f4.js"
   },
   {
-    "revision": "0f4c37af253a4077dd86",
-    "url": "assets/js/app.hr.b009314b.js"
+    "revision": "1b0b3fc1162c555aa7b9",
+    "url": "assets/js/app.hr.8755109b.js"
   },
   {
     "revision": "ff48e206a770927c8bf6",
@@ -284,7 +284,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "favicon.ico"
   },
   {
-    "revision": "59f159115737a7c3622b1ba4327b3ef7",
+    "revision": "13e0d90f0b35cf0282c56d829c16c372",
     "url": "index.html"
   }
 ]);
