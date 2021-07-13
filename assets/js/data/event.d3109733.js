@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["data/event"],{"8e88":function(n){n.exports=JSON.parse('{"cn":{"act8mini_zone1":{"valid":{"startTs":1626163200,"endTs":1626724799},"drop":{"30013":{"VI-5":3},"30021":{"VI-2":0},"30022":{"VI-4":1},"30061":{"VI-1":2},"30062":{"VI-3":2},"30073":{"VI-7":2},"31033":{"VI-6":3}}}},"tw":{},"us":{},"jp":{},"kr":{}}')}}]);
