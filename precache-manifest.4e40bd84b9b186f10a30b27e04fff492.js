@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5cd692e57aa8ab72e26",
+    "revision": "88d9ca58520bd2e2f51a",
     "url": "assets/css/app.75c11af9.css"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/css/app.home.241ab8ec.css"
   },
   {
-    "revision": "b776b8b966214514e35a",
+    "revision": "22c2717d6769d9968793",
     "url": "assets/css/app.hr.e73e88c3.css"
   },
   {
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/amiya.dbcf93e0.gif"
   },
   {
-    "revision": "f5cd692e57aa8ab72e26",
-    "url": "assets/js/app.c15ed14c.js"
+    "revision": "88d9ca58520bd2e2f51a",
+    "url": "assets/js/app.4ecd062d.js"
   },
   {
     "revision": "d291f13e504670eb4f82",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/app.home.3666d4f4.js"
   },
   {
-    "revision": "b776b8b966214514e35a",
-    "url": "assets/js/app.hr.00419c90.js"
+    "revision": "22c2717d6769d9968793",
+    "url": "assets/js/app.hr.7ff635fe.js"
   },
   {
     "revision": "ff48e206a770927c8bf6",
@@ -116,8 +116,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/data/changelog.0bff264f.js"
   },
   {
-    "revision": "8ab99882126498662d10",
-    "url": "assets/js/data/character.6bfbb397.js"
+    "revision": "07686606fbbdf45c6a4f",
+    "url": "assets/js/data/character.e9e9c5e6.js"
   },
   {
     "revision": "aabe852e2d5937c8d60c",
@@ -256,8 +256,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/i18n/us/building.a2bc16b8.js"
   },
   {
-    "revision": "eca0f67d8047366916bb",
-    "url": "assets/js/i18n/us/character.1cea4215.js"
+    "revision": "23befcb5c7d4a92bd7b9",
+    "url": "assets/js/i18n/us/character.80ec2aea.js"
   },
   {
     "revision": "7da4da689b523c3bb562",
@@ -268,8 +268,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/i18n/us/main.89066a53.js"
   },
   {
-    "revision": "f086ce6023b04b07cc7f",
-    "url": "assets/js/i18n/us/skill.be418935.js"
+    "revision": "021ee608104f64c64cc4",
+    "url": "assets/js/i18n/us/skill.4ccb1f44.js"
   },
   {
     "revision": "378cf72a8e84e9a25774",
@@ -284,7 +284,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "favicon.ico"
   },
   {
-    "revision": "d4b9b8b0219095858baa84fc31f35bd0",
+    "revision": "4b24857824aad0fa4491a52d7542b135",
     "url": "index.html"
   }
 ]);
