@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["data/event"],{"8e88":function(n){n.exports=JSON.parse('{"cn":{},"tw":{},"us":{},"jp":{},"kr":{}}')}}]);
